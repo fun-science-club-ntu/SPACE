@@ -1,5 +1,5 @@
 # SPACE: Shiny Pan-cancer Accessible Chromatin Explorer
-Here, we develop Shiny Pan-cancer Accessible Chromatin Explorer (SPACE) as an all-in-one web server of 562,709 regulatory elements in 404 patients across 23 cancer types. SPACE is a web application supporting ATAC-seq analysis with matched clinical phenotype and transcriptome data.
+Here, we develop Shiny Pan-cancer Accessible Chromatin Explorer (SPACE) as an all-in-one web server of 562,709 regulatory elements in 404 patients across 23 cancer types. SPACE is a database supporting ATAC-seq analysis with matched clinical phenotype and transcriptome data.
 
 ## Link
 http://fun-science.club/SPACE
